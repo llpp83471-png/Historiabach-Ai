@@ -1,0 +1,33 @@
+
+name: Historia AI - plan editorial semanal
+
+on:
+  schedule:
+    - cron: '15 15 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generar plan editorial
+        run: python src/topic_research.py --count 5
+
+      - name: Guardar informe
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-plan
+          path: output/
+          retention-days: 14
