@@ -21,7 +21,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
+      - name: Organizar archivos
+        run: |
+          mkdir -p src data
+          if [ -f topic_research.py ]; then mv topic_research.py src/; fi
+          if [ -f topics.json ]; then mv topics.json data/; fi
       - name: Generar plan editorial
         run: python src/topic_research.py --count 5
 
