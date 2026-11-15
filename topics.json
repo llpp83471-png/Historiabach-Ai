@@ -1,0 +1,182 @@
+[
+  {
+    "id": "constitucion_1812",
+    "title": "La Constitución de 1812: por qué fue revolucionaria",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 3,
+    "format": "¿Sabías que...?"
+  },
+  {
+    "id": "guerra_independencia",
+    "title": "La Guerra de la Independencia: causas y consecuencias",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 3,
+    "format": "Historia en 45 segundos"
+  },
+  {
+    "id": "fernando_vii",
+    "title": "Fernando VII: absolutismo y liberalismo",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 3,
+    "format": "El personaje explicado"
+  },
+  {
+    "id": "isabel_ii",
+    "title": "El reinado de Isabel II y la construcción del Estado liberal",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 2,
+    "format": "Línea temporal rápida"
+  },
+  {
+    "id": "sexenio",
+    "title": "El Sexenio Democrático: seis años que cambiaron España",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 3,
+    "format": "Historia en 45 segundos"
+  },
+  {
+    "id": "restauracion",
+    "title": "La Restauración borbónica y el turno de partidos",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 2,
+    "format": "Concepto clave PAU"
+  },
+  {
+    "id": "desastre_1898",
+    "title": "El desastre del 98: qué perdió España y por qué",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 4,
+    "format": "Causa y consecuencia"
+  },
+  {
+    "id": "primo_rivera",
+    "title": "La dictadura de Primo de Rivera explicada fácilmente",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 3,
+    "format": "Historia en 45 segundos"
+  },
+  {
+    "id": "segunda_republica",
+    "title": "La Segunda República: reformas, tensiones y contexto",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 4,
+    "format": "Tres claves"
+  },
+  {
+    "id": "guerra_civil",
+    "title": "La Guerra Civil española: causas y dimensión internacional",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 5,
+    "format": "Contexto en 60 segundos"
+  },
+  {
+    "id": "franquismo",
+    "title": "Las etapas del franquismo: cómo distinguirlas",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 4,
+    "format": "Esquema visual"
+  },
+  {
+    "id": "transicion",
+    "title": "La Transición española: acuerdos, retos y Constitución de 1978",
+    "area": "Historia de España",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 5,
+    "trend_score": 4,
+    "format": "Historia en 45 segundos"
+  },
+  {
+    "id": "revolucion_francesa",
+    "title": "La Revolución francesa: cinco causas fundamentales",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 4,
+    "format": "Cinco claves"
+  },
+  {
+    "id": "revolucion_industrial",
+    "title": "La Revolución Industrial y sus consecuencias sociales",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 3,
+    "format": "Antes y después"
+  },
+  {
+    "id": "imperialismo",
+    "title": "El imperialismo del siglo XIX: causas y rivalidades",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 3,
+    "format": "Mapa explicado"
+  },
+  {
+    "id": "primera_guerra",
+    "title": "Por qué comenzó la Primera Guerra Mundial",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 5,
+    "format": "Efecto dominó"
+  },
+  {
+    "id": "revolucion_rusa",
+    "title": "La Revolución rusa de 1917 en un minuto",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 4,
+    "format": "Historia en 60 segundos"
+  },
+  {
+    "id": "crack_1929",
+    "title": "El crack de 1929: causas y consecuencias",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 4,
+    "format": "Causa y consecuencia"
+  },
+  {
+    "id": "segunda_guerra",
+    "title": "El origen de la Segunda Guerra Mundial",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 5,
+    "format": "Historia en 60 segundos"
+  },
+  {
+    "id": "guerra_fria",
+    "title": "La Guerra Fría: un mundo dividido en dos bloques",
+    "area": "Historia Contemporánea",
+    "period": "Edad Contemporánea",
+    "curriculum_relevance": 4,
+    "trend_score": 4,
+    "format": "Mapa explicado"
+  }
+]
